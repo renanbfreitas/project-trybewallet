@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap') ;
+
+.valor {
+  border: 1px solid black;
+  border-radius: 20px;
+  color: black;
+  display: inline-block;
+  font-size: 15px;
+  justify-content: center;
+  text-align: center;
+}
+
+.valorName {
+  color: black;
+  display: inline-block;
+  font-family: Great Vibes, cursive;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+}
+
+.descriçao {
+  border: 1px solid black;
+  border-radius: 20px;
+  color: black;
+  display: inline-block;
+  font-size: 12pt;
+  justify-content: center;
+  text-align: center;
+}
+
+.descriçaoName {
+  color: black;
+  display: inline-block;
+  font-family: Great Vibes, cursive;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+}
+
+.moedaValue {
+  border: 1px solid black;
+  border-radius: 20px;
+  color: black;
+  display: inline-block;
+  font-family: Great Vibes, cursive;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+}
+
+.moedaName {
+  color: black;
+  display: inline-block;
+  font-family: Great Vibes, cursive;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+}
+
+.buttonEddDespesa {
+  border: 1px solid black;
+  border-radius: 20px;
+  color: black;
+  display: inline-block;
+  font-family: Great Vibes, cursive;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+}
+
+.buttonAddDespesa {
+  border: 1px solid black;
+  border-radius: 20px;
+  color: black;
+  display: inline-block;
+  font-family: Great Vibes, cursive;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+}
+
+.method-input {
+  border: 1px solid black;
+  border-radius: 20px;
+  color: black;
+  display: inline-block;
+  font-family: Great Vibes, cursive;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+}
+
+.tag-input {
+  border: 1px solid black;
+  border-radius: 20px;
+  color: black;
+  display: inline-block;
+  font-family: Great Vibes, cursive;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+}

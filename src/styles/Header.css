@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap') ;
+
+.email-field {
+  color: black;
+  display: center;
+  font-family: Sacramento, cursive;
+  font-size: 30px;
+  height: 25px;
+  justify-content: center;
+  text-align: center;
+}
+
+.total {
+  color: black;
+  display: center;
+  font-family: Sacramento, cursive;
+  font-size: 30px;
+  height: 25px;
+  justify-content: center;
+  text-align: center;
+}
+
+.moeda {
+  color: black;
+  display: center;
+  font-family: Sacramento, cursive;
+  font-size: 30px;
+  height: 25px;
+  justify-content: center;
+  text-align: center;
+}
+
+.trybeWallet {
+  color: black;
+  display: center;
+  font-family: Sacramento, cursive;
+  font-size: 30px;
+  height: 25px;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+}

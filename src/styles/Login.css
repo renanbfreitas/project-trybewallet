@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap') ;
+
+body {
+  align-items: center;
+  background: url('../imgs/moeda.png');
+  background-position: 5% 50%;
+  background-size: cover;
+  display: flex;
+  height: 950px;
+  justify-content: center;
+  text-align: center;
+}
+
+.email {
+  border: 1px solid black;
+  color: black;
+  display: center;
+  font-family: Sacramento, cursive;
+  font-size: 20px;
+  height: 25px;
+  justify-content: center;
+  text-align: center;
+  width: 400px;
+}
+
+.senha {
+  border: 1px solid black;
+  color: black;
+  display: center;
+  font-family: Sacramento, cursive;
+  font-size: 20px;
+  height: 25px;
+  justify-content: center;
+  text-align: center;
+  width: 400px;
+}
+
+.buttonEntrar {
+  border: 1px solid black;
+  color: black;
+  display: inline-block;
+  font-family: Sacramento, cursive;
+  font-size: 20px;
+  width: 200px;
+}
