@@ -1,12 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap') ;
 
 body {
-  align-items: center;
+  align-items: flex;
   background: url('../imgs/moeda.png');
-  background-position: 5% 50%;
+  background-position: 5% 110%;
   background-size: cover;
+  color: white;
+  font-family: Sacramento , cursive;
+  font-size: 20px;
+  height: 2px;
+  justify-content: center;
+  position: center;
+  text-align: center;
+}
+
+.trybeName {
+  align-items: center;
+  color: blue;
   display: flex;
-  height: 950px;
+  font-family: Sacramento , cursive;
+  font-size: 80px;
+  height: 300px;
   justify-content: center;
   text-align: center;
 }
